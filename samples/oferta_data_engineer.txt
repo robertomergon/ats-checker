@@ -1,0 +1,30 @@
+Senior Data Engineer (Remoto España)
+
+Sobre nosotros
+Somos una plataforma de logística que mueve 40 millones de envíos al año. El equipo de
+Datos da servicio a Producto, Operaciones y Finanzas.
+
+Qué harás
+- Diseñar y mantener pipelines de datos batch y streaming en producción.
+- Modelar el data warehouse y documentar los contratos de datos con los equipos consumidores.
+- Llevar a producción modelos de datos con tests, CI/CD y monitorización.
+- Acompañar a analistas y científicos de datos en el uso de la plataforma.
+
+Requisitos imprescindibles
+- Mínimo 5 años de experiencia como Data Engineer o similar.
+- Python avanzado y SQL avanzado.
+- Experiencia con Apache Airflow orquestando pipelines críticos.
+- Experiencia con Spark para procesamiento distribuido.
+- Conocimiento sólido de AWS (S3, Glue, Redshift o EMR).
+- Experiencia con dbt y modelado dimensional.
+- Docker y prácticas de CI/CD.
+- Inglés B2 o superior.
+
+Se valorará
+- Kafka o streaming en tiempo real.
+- Terraform e infraestructura como código.
+- Snowflake o BigQuery.
+- Experiencia liderando técnicamente a un equipo pequeño.
+
+Ofrecemos
+Salario 60.000-75.000 €, 100 % remoto dentro de España, formación anual.

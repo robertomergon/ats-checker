@@ -1,0 +1,50 @@
+Lucía Fernández Ortega
+lucia.fernandez@example.com | +34 655 123 456 | linkedin.com/in/luciafernandezortega | Madrid
+
+Resumen
+Data Engineer con 7 años de experiencia construyendo plataformas de datos en entornos
+cloud para empresas de logística y banca. Especializada en orquestación de pipelines,
+modelado analítico y llevar datos a producción con prácticas de ingeniería de software.
+
+Experiencia
+Senior Data Engineer — Envialia Logística (2021 - Actualidad)
+- Lideré la migración de 120 pipelines de Apache Airflow a un despliegue en Kubernetes,
+  reduciendo los fallos nocturnos un 68% y el tiempo medio de recuperación de 4 horas a
+  25 minutos.
+- Diseñé el modelo dimensional del data warehouse en Amazon Redshift, con 40 modelos en
+  dbt, tests de calidad en cada pull request y documentación de contratos de datos con
+  los equipos de Producto y Finanzas.
+- Implementé procesamiento distribuido con PySpark sobre 4 TB diarios de eventos de
+  tracking, bajando el coste de cómputo un 31% tras reparticionar los datos en S3.
+- Automaticé el despliegue de la plataforma con GitHub Actions y Terraform, reduciendo el
+  time to production de 5 días a 4 horas.
+- Definí el sistema de observabilidad de datos (frescura, volumen y distribución) que
+  cubre hoy 90% de las tablas críticas del warehouse.
+- Mentoricé a 3 ingenieros junior y dirigí la revisión técnica semanal del equipo de datos.
+
+Data Engineer — Banco Delta (2018 - 2021)
+- Desarrollé procesos ETL en Python y SQL sobre Oracle y S3 para el reporting regulatorio
+  del Banco de España, con cierres mensuales sin incidencias durante 18 meses seguidos.
+- Migré el procesamiento batch de servidores on-premise a AWS Glue, recortando 12 horas
+  de ventana de proceso a 3 horas.
+- Monitoricé la calidad del dato con alertas automáticas que detectaron el 95% de las
+  incidencias antes del cierre contable.
+- Construí una librería interna de validaciones reutilizada después por 4 equipos.
+
+Analista de datos — Consultora Nexo (2017 - 2018)
+- Construí cuadros de mando en Power BI para el área de operaciones de 3 clientes.
+- Automaticé informes manuales en Excel, ahorrando 20 horas de trabajo al mes.
+
+Educación
+Grado en Ingeniería Informática — Universidad Politécnica de Madrid (2013 - 2017)
+
+Skills
+Python, SQL, Apache Airflow, PySpark, dbt, AWS (S3, Glue, Redshift, EMR), Docker,
+Kubernetes, Terraform, GitHub Actions, CI/CD, modelado dimensional, Power BI, Git, Linux
+
+Certificaciones
+AWS Certified Data Analytics – Specialty (2022)
+Astronomer Certification for Apache Airflow Fundamentals (2021)
+
+Idiomas
+Español nativo, Inglés C1
