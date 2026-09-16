@@ -1,0 +1,17 @@
+Marcos Iglesias Ruiz
+marcos.iglesias@example.com | Barcelona
+
+Dónde he trabajado
+Backend Developer — Tiendas Aurora (2020 - Actualidad)
+- Responsable del desarrollo de APIs en Django para el catálogo de producto.
+- Mantenimiento de consultas SQL y del proceso nocturno de sincronización de stock.
+- Participación en la puesta en marcha de contenedores Docker para los entornos de test.
+
+Desarrollador junior — Agencia Kappa (2019 - 2020)
+- Desarrollo de integraciones con pasarelas de pago.
+
+Mi formación
+Ciclo Superior en Desarrollo de Aplicaciones Web (2019)
+
+Lo que sé hacer
+Python, Django, SQL, Docker, Git, MySQL, HTML, CSS, trabajo en equipo
